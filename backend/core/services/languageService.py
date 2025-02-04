@@ -27,24 +27,12 @@ languages = {
 
 
 languageVoiceMapping = {
-    "en": {
-        "language_code": "en-US",
-        "voice_name": "en-US-Wavenet-D"
-    },
-    "es": {
-        "language_code": "es-ES",
-        "voice_name": "es-ES-Wavenet-A"
-    },
-    "fr": {
-        "language_code": "fr-FR",
-        "voice_name": "fr-FR-Wavenet-A"
-    },
-    "ja": {
-        "language_code": "ja-JP",
-        "voice_name": "ja-JP-Wavenet-A"
-    }
-}
+    "en": "0m1WGWVzxS7KbWobXtnw",
+    "es": "9oPKasc15pfAbMr7N6Gs",
+    "fr": "O31r762Gb3WFygrEOGh0",
+    "ja": "3JDquces8E8bkmvbh6Bc"
 
+}
 
 def getAllLanguages():
     return languages
