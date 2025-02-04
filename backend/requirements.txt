@@ -1,7 +1,7 @@
 fastapi
 uvicorn
 pydub
-elevenlabs
+google-cloud-texttospeech
 pydantic
 google-cloud
 google-generativeai
