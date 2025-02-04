@@ -1,0 +1,75 @@
+{
+	"Sections": [
+		{
+			"id": 0,
+			"narration": "Good evening and welcome to our two-minute rewind of a thrilling NLCS Game 6 clash between the Los Angeles Dodgers and the New York Mets at Dodger Stadium! The Dodgers emerged victorious, securing a 10-5 win and their place in the World Series.",
+			"UIComponent": {
+				"type": "GameInfoCard",
+				"gameId": "775302",
+				"homeTeamId": "119",
+				"awayTeamId": "121"
+			}
+		},
+		{
+			"id": 1,
+			"narration": "The Mets grabbed an early lead, but the Dodgers answered with a powerful display of offense.  Let's look at the line score; a close game early, the Dodgers pulled away late.",
+			"UIComponent": {
+				"type": "LineBox",
+				"gameId": "775302",
+				"currentInning": -1
+			}
+		},
+		{
+			"id": 2,
+			"narration": "In the third inning, Tommy Edman ignited the Dodgers' rally with a thunderous two-run homer!  This set the tone for the rest of the game.  Shortly after, Will Smith added another two-run blast, giving the Dodgers a commanding lead.",
+			"UIComponent": {
+				"type": "HighlightVideo",
+				"gameId": "775302",
+				"index": 1,
+				"startTime": "00:00:00",
+				"endTime": "00:00:28"
+			}
+		},
+		{
+			"id": 3,
+			"narration": "But the Mets fought back! Mark Vientos answered with a crucial two-run home run of his own in the fourth, but it was too little too late. The Dodgers offense proved too much to handle. ",
+			"UIComponent": {
+				"type": "HighlightVideo",
+				"gameId": "775302",
+				"index": 2,
+				"startTime": "00:00:00",
+				"endTime": "00:00:30"
+			}
+		},
+		{
+			"id": 4,
+			"narration": "Tommy Edman's performance was simply outstanding.  He wasn't just a key hitter,  his contributions throughout the game were instrumental in securing this victory. He finished with four RBIs, a home run, and was named the NLCS MVP!",
+			"UIComponent": {
+				"type": "PlayerCard",
+				"playerId": "669242",
+				"playerMatchSummary": "Tommy Edman led the Dodgers' offensive charge in Game 6, showcasing his power and clutch hitting ability to secure a World Series berth."
+			}
+		},
+		{
+			"id": 5,
+			"narration": "And finally, the Dodgers clinched the series in the ninth, sending them to the World Series!  A truly dominant performance.",
+			"UIComponent": {
+				"type": "HighlightVideo",
+				"gameId": "775302",
+				"index": 4,
+				"startTime": "00:00:00",
+				"endTime": "00:00:30"
+			}
+		},
+		{
+			"id": 6,
+			"narration": "A dominant pitching performance from the Dodgers' bullpen, highlighted by Blake Treinen's final out, secured the win.  The Dodgers advance to the World Series. We'll be right back after this for more analysis.",
+			"UIComponent": {
+				"type": "TeamLeaders",
+				"teamId": "119",
+				"season": "2021",
+				"gameType": "R"
+			}
+		}
+	]
+}

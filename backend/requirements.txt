@@ -1,0 +1,14 @@
+fastapi
+uvicorn
+pydub
+elevenlabs
+pydantic
+google-cloud
+google-generativeai
+MLB-StatsAPI
+requests
+mutagen
+redis
+google-cloud-storage
+google-cloud-firestore
+google-cloud-aiplatform
